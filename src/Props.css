@@ -1,0 +1,11 @@
+
+.props{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: rgb(255, 255, 255);
+    border-radius: 15px;
+    padding: 10px 20px 10px 20px;
+    margin: 20px;
+    max-width: 250px;
+    color: rgb(0, 102, 255);
+    border-style: double;
+}
